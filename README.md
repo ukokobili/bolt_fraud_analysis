@@ -9,7 +9,7 @@ About 40% of our transactions are cashless - meaning we are charging clients and
 We always pay the driver and take the risk for collecting the funds from the client. Luckily, we have basic filters to block users from making multiple fraudulent transactions and find groups of fraudulent users using the same devices or cards. 
 
 # **Goal**
-Stop first timer from doing fraudulent transaction and develop a top 2-5 solotions will help reduce the percent of failed payments.
+Stop first timer from doing fraudulent transaction and develop a top 2-5 solutions will help reduce the percent of failed payments.
 
 # Goals & Business Questions
 
